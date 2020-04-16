@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="Hello.css"?>
+<xsamdoc>
+
+        <Hello>Hello</Hello>
+    <extention>i am Triệu Cao Chinh</extention>
+
+    <answer>
+        <extention1>i am from Thái Bình</extention1>
+        <puestion>i am a school student FPT Aptech</puestion>
+    </answer>
+
+</xsamdoc>
