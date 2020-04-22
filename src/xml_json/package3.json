@@ -1,0 +1,46 @@
+{
+  "menu": {
+    "header": "Adobe VSG Viewer",
+    "item": {
+      "action": "Open",
+      "id": "Open",
+      "iteam": "Open"
+    },
+    "item": {
+      "action": "OpenNew",
+      "id": "OpenNew",
+      "iteam": "OpenNew"
+    },
+    "item": {
+      "action": "ZoomIn",
+      "id": "ZoomIn",
+      "iteam": "ZoomIn"
+    },
+    "item": {
+      "action": "Zoom Out",
+      "id": "Zoom Out",
+      "iteam": "Zoom Out  "
+    },
+    "item": {
+      "action": "Orinaltion View",
+      "id": "Orinaltion View",
+      "iteam": "Orinaltion View"
+    },
+    "item": {
+      "action": "Quality",
+      "id": "Quality",
+      "iteam": "Quality"
+    },
+    "item": {
+      "action": "Pause",
+      "id": "Pause",
+      "iteam": "Pause"
+    },
+    "item": {
+      "action": "Mute",
+      "id": "Mute",
+      "iteam": "Mute"
+    }
+
+  }
+}
