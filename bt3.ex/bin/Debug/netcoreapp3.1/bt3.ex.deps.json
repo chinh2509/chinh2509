@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bt3.ex/1.0.0": {
+        "runtime": {
+          "bt3.ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bt3.ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

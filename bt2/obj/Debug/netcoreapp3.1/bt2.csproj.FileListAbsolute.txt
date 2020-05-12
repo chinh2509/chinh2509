@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.exe
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.deps.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\bin\Debug\netcoreapp3.1\bt2.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt2\obj\Debug\netcoreapp3.1\bt2.genruntimeconfig.cache

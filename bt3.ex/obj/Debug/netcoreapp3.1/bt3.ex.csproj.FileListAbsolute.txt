@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.exe
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.deps.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\bin\Debug\netcoreapp3.1\bt3.ex.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt3.ex\obj\Debug\netcoreapp3.1\bt3.ex.genruntimeconfig.cache

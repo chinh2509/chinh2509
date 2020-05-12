@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.exe
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.deps.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\bin\Debug\netcoreapp3.1\bt4.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.dll
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\bt4\obj\Debug\netcoreapp3.1\bt4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.exe
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.deps.json
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.dll
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\bin\Debug\netcoreapp3.1\BT5.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.dll
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\BT5\obj\Debug\netcoreapp3.1\BT5.genruntimeconfig.cache
