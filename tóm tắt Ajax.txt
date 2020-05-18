@@ -1,0 +1,5 @@
+Đúc kết nội dung:
++Là bộ công nghệ giúp làm ra các web động
++cho phép tăng tốc độ ứng dụng web bằng cách cắt nhỏ dữ liệu và chỉ hiển thị những gì cần thiết
+vd:các trang báo không cần nhấn trang 2 chỉ cần vuốt xuống đáy dữ liệu tự động tải tiếp
++XMLHttpRequest để trao đổi dữ liệu là hay dùng nhất
