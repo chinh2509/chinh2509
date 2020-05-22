@@ -1,22 +1,27 @@
-﻿using System;
+﻿using person;
+using System;
 
-namespace ex2
+namespace ConsoleApp_lap05
 {
-    class Employee
+    public class Employee : Person
     {
-        public String Firstname;
-        public String Lastname;
-        public String Address;
-        public long sin;
-        public double salary;
+        private String part;
+        private double salary;
+        private DateTime dayOff;
 
-        public Employee()
+        public Employee(string part, double salary)
         {
+            this.part = part;
+            this.salary = salary;
         }
-
-        public double bonus()
+        public override String ToString()
         {
-            return salary * 12/100 ;S
+            return "Employee is:" + ", name is " + name + ",phone is " + phone + ",part" + part + "salary" + salary +"day off:"+dayOff;
+        }
+        public override double CompateBonus() { return 0.06 * salary; }
+        public override double CompateVacation()
+        {
+            return 0.12;
         }
     }
 }
