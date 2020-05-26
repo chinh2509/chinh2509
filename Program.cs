@@ -1,19 +1,48 @@
-﻿using ConsoleApp_lap05;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-namespace ConsoleApp5
+namespace bai_05
 {
-    public class Program
+    class Vidu1
     {
         static void Main(string[] args)
         {
-            Employee c1 = new Employee("chinh", 123);
-            Console.WriteLine("employee before change: " + c1.ToString());
-            //using properties
-            Student a1 = new Student("sinh viên");
-            Console.WriteLine("employee before change: " + a1.ToString());
-            //using properties
-            Console.ReadLine();
+            byte[] a = new byte[5];
+            //nhap mang
+            try
+            {
+                for (int i = 0; i <= 5; i++)
+                {
+                    Console.WriteLine("a[{0}]=", i + 1);
+                    a[i] = Convert.ToByte(Console.ReadLine());
+                }
+            }
+            catch (FormatException ex)
+            {
+                //Console.WriteLine(ex.Message);
+
+                Console.WriteLine("Khong duoc nhap ki tu cho mang so");
+
+            }
+            catch (OverflowException ex)
+            {
+                //Console.WriteLine(ex.Message);
+
+                Console.WriteLine("Khong duoc nhap gia tri nam ngoai mien0 - 255");
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                //Console.WriteLine(ex.Message);
+
+                Console.WriteLine("Loi vuot qua pham vi cua mang");
+
+            }
+            //in mang
+            for (int i = 0; i < 5; i++)
+                Console.Write(" {0}", a[i]);
         }
     }
 }
+
