@@ -21,8 +21,8 @@
                 <ul class="text-center h1" style="float: right;margin-top: 10px;">
                     <li><a href="#">My Account</a>
                     <ul class="sub-menu">
-                        <li><a href="#" style="float:left">sign in</a></li>
-                        <li><a href="#" style="float:left">sign up</a></li>
+                        <li><a href="#" data-toggle="modal" data-target="#formlogin">sign in</a></li>
+                        <li><a href="#" data-toggle="modal" data-target="#formlogin2" >sign up</a></li>
                     </ul></li>
                     <li><a href="#">WishList</a></li>
                     <li><a href="#">Shopping cat</a></li>
@@ -56,6 +56,63 @@
                      <li><a href="#"><strong>BLOG</strong></a></li>
                  </ul>
              </div>
+        </div>
+    </div>
+    <div class="modal fade" id="formlogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="col-xs-12 modal-body">
+                    <div class="modal-content">
+                        <div style="margin-bottom: 10px;" class="madal-header"><h3 class="text-center">đăng nhập</h3></div>
+                        <div class="modal-body">
+                            <from action="#" method="post">
+                                <div class="from-group">
+                                    <input class="form-control" type="email" name="emal" placeholder="email"/>
+                                </div>
+                                <div class="from-group">
+                                    <input class="form-control" type="password" name="password" placeholder="password"/>
+                                </div>
+                                <div class="from-group">
+                                    <button style="margin-top: 10px;" type="submit" class="btn btn-danger">đăng nhập</button>
+                                </div>
+                            </from>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="modal fade" id="formlogin2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="col-xs-12 modal-body">
+                    <div class="modal-content">
+                        <div style="margin-bottom: 10px;" class="madal-header"><h3 class="text-center">đăng kí</h3></div>
+                        <div class="modal-body">
+                            <from action="#" method="post">
+                                <div class="from-group">
+                                    <input class="form-control" type="First Name" name="First Name" placeholder="First Name"/><br/>
+                                </div>
+                                <div class="from-group">
+                                    <input class="form-control" type="Last Name" name="Last Name" placeholder="Last Name"/><br/>
+                                </div>
+                                <div class="from-group">
+                                    <input class="form-control" type="email" name="email" placeholder="Email"/><br/>
+                                </div>
+                                <div class="from-group">
+                                    <input class="form-control" type="password" name="password" placeholder="password"/><br/>
+                                    <div class="box1-2">
+                                        <a style="margin-left: 179px;" class="btn" href="#"><font color="black">Forgot your password?</font></a>
+                                    </div>
+                                </div>
+                                <div class="from-group">
+                                    <button style="margin-top: 10px;width: 150px;" type="submit" class="center-block btn btn-danger">đăng kí</button>
+                                </div>
+                            </from>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
