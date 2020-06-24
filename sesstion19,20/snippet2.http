@@ -1,0 +1,5 @@
+GET /usa/forida.php HTTP/2.0
+Connection: Keep-Alive
+Cookie: city=eats-coast-usa
+Host: www.Webworldmaps.com
+Referer: http://Webworldmaps.com/
