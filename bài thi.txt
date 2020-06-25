@@ -1,15 +1,28 @@
-CREATE DATABASE IF NOT EXISTS sinh_vien;
-USE sinh_vien;
-DROP TABLE if EXISTS hoc_sinh;
-CREATE TABLE hoc_sinh(
+
+CREATE TABLE users(
 id int,
 name varchar(50),
-address varchar(50),
-phone int,
+email varchar(50),
+title varchar(50),
+password int,    
 PRIMARY KEY(id));
-INSERT INTO hoc_sinh VALUES(1001,'triệu cao chinh','hà đong hà nội',123123123);
-INSERT INTO hoc_sinh VALUES(1002,'More Java for dummies','CodeLean',231231231);
-INSERT INTO hoc_sinh VALUES(1003,'More Java for more dummies','Mohammad',321321321);
-INSERT INTO hoc_sinh VALUES(1004,'A cup of Java','Kumar',213212312);
-INSERT INTO hoc_sinh VALUES(1005,'A Teaspoon of Java','Kenvin Jones',213231231);
-SELECT * FROM hoc_sinh;
+INSERT INTO users VALUES(1,'triệu cao chinh','kutysomapc@gmail.com','chinh',123123);
+INSERT INTO users VALUES(2,'triệu cao hưng','kutysomapc2@gmail.com','hung',123123);
+INSERT INTO users VALUES(3,'triệu cao sơn','kutysomapc3@gmail.com','son',123123);
+INSERT INTO users VALUES(4,'triệu cao tấn','kutysomapc4@gmail.com','tan',123123);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
