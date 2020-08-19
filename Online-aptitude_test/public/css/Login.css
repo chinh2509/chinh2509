@@ -1,0 +1,96 @@
+body{
+     font-size:15px;
+     font-family: 'Roboto', sans-serif;
+ }
+.section1{
+    background-color: silver;
+}
+.section2 .form-control {
+    height: 50px;
+    width: 450px;
+}.box1{
+     padding-left: 280px;
+     margin-top: 142px;
+ }
+.box1-1{
+    margin-left: 90px;
+}
+.box1-2{
+    margin-left: 80px;
+}
+.box1-2{
+    margin-left: 231px;
+}
+.box1-3 {
+    margin-left: 91px;
+    margin-top: 20px;
+}
+.section2 .box1 button{
+    height: 50px;
+    width: 450px;
+    border: 2px solid #949400;
+}
+.box1-4{
+    margin-left: 259px;
+    margin-top: 15px;
+}
+.box1-5{
+    padding-left: 100px;
+    margin-left: 100px;
+}
+.section2 .box1 img{
+    margin-left: 207px;
+}
+.section2 .box2 .box2-2 a{
+    margin-left: 5px;
+    font-size: 25px;
+    color: black;
+    border: 1px solid silver;
+    padding: 10px 16px 11px 10px;
+}
+.section2 .box2 .box2-2 a i{
+    padding-left: 3px;
+    padding-top: 12px;
+}
+.btn1:hover{
+    color: white;
+    background-color: black;
+}
+.section2 i:hover{
+    color: white;
+}
+.section2 .box2 h3{
+    color: #949400;
+}
+.section2 .box2 .box2-1{
+    border-right: 1px solid silver;
+}
+.section2 .box2 .box2-2{
+    border-right: 1px solid silver;
+}
+.section2 .box2 .box2-3{
+    border-right: 1px solid silver;
+}
+.box3{
+    margin-top: 30px;
+}
+.section3{
+    background-color: black;
+    height: 70px;
+    margin-bottom: 5px;
+}
+.left{
+    float: left;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.right{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.right font{
+    padding-left: 300px;
+}
+p {
+    margin: -7px 0 10px;
+}

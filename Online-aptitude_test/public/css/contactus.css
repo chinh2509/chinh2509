@@ -1,0 +1,478 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cmm{
+    width: 100%;
+    height: 50px;
+    margin-top: -5px;
+    box-sizing: border-box;
+    background-color: gray;
+}
+.cmm p{
+    float: left;
+    font-size: 17px;
+    color: white;
+}
+
+.left{
+    float: left;
+    padding-left: 148px;
+}
+.left p{
+    margin-left: 50px;
+}
+.left i{
+    margin-right: 10px;
+}
+.right{
+    float: right;
+    padding-right: 190px;
+}
+.right i{
+    margin-left:15px ;
+}
+.taskbar{
+    width: 73%;
+    height: 80px;
+    border-bottom: 1px solid orange;
+    float: left;
+    margin-left: 200px;
+}
+.taskbar li:hover{
+    color: #E75625;
+    transition: 0.5s;
+}
+.one .submenu li:hover{
+    color: #E75625;
+    transition: 0.5s;
+
+}
+.logo{
+    width: 14%;
+    height: 100%;
+    float: left;
+}
+.chosen{
+    float: left;
+    margin-left: 94px;
+}
+.chosen i{
+    float: left;
+    font-size: 26px;
+    margin-top: 11px;
+}
+.chosen .getaquote{
+    float: left;
+    width: 150px;
+    height: 50px;
+    background-color:#F15D2C;
+    color: white;
+    border: none;
+    margin-left: 20px;
+    margin-top: -5px;
+}
+.chosen .getaquote:hover{
+    background-color: white;
+    color: #F15D2C;
+    transition: 0.5s;
+}
+.chosen .one{
+    float: left;
+    margin-right: 33px;
+    margin-top: -20px;
+    list-style: none;
+    color: white;
+}
+.one .submenu{
+    width: 250px;
+    height: 455px;
+    box-sizing: border-box;
+    background-color: white;
+    border: 1px solid black;
+    position: absolute;
+    display: none;
+    z-index: 10000;
+    margin-top: 35px;
+    margin-left: -15px;
+}
+
+.one .submenu li{
+    list-style: none;
+    line-height: 55px;
+    font-size: 14px;
+    color: black;
+
+}
+
+.one:hover  .submenu {
+    display: block;
+}
+
+.menu .one{
+    height: 65px;
+    padding-top: 30px;
+}
+#ones .submenu{
+    height: 125px;
+}
+#twos .submenu{
+    height: 230px;
+}
+#threes .submenu{
+    height: 125px;
+}
+#fours .submenu{
+    height: 125px;
+}
+.search{
+    float: left;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: -10px;
+    margin-top: -5px;
+}
+.search i {
+    color: white;
+}
+
+.search ul{
+    display: none;
+    position: absolute;
+
+}
+.search:focus ul{
+    display: block;
+    z-index: 1000;
+}
+.search ul{
+    list-style: none;
+    background-color: lightslategray;
+    width: 300px;
+    height: 70px;
+    z-index: 100;
+    margin-top: 65px;
+    margin-left: -290px;
+    position: absolute;
+
+}
+
+.slider{
+    width: 100%;
+    height: 145px;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+.banner{
+    background-image: url("../images/banner_image1.jpg");
+    background-repeat: round;
+    height: 400px;
+    width: 100%;
+    margin-top: -50px;
+}
+.banner h3{
+    color: #ffffff;
+    font-size: 40px;
+    padding-top: 135px;
+    padding-left: 213px;
+}
+.dog{
+    border: #f9f2f4;
+    background-color: #ffffff;
+    border-style: solid;
+    width: 800px;
+    height: 1000px;
+    margin-top: -100px;
+    margin-left: 150px;
+
+}
+.dog .loz1{
+    text-align: center;
+}
+.loz1 small{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color: #fff;
+    background: #101010;
+    display: inline-block;
+    padding: 3px 18px;
+    text-transform: uppercase;
+    margin-top: 60px;
+}
+
+.dog .mu h3{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.mu span{
+    font-size: 50px;
+}
+.name input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left:45px;
+    height: 45px;
+    font-family: sans-serif;
+}
+
+.last input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+    font-family: sans-serif;
+}
+.your input {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left: 45px;
+    height: 45px;
+    font-family: sans-serif;
+}
+
+.phone input{
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+    font-family: sans-serif;
+}
+.sub input {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-top: 40px;
+    margin-left: 45px;
+    height: 45px;
+    font-family: sans-serif;
+}
+.ge select  {
+    font-size: 14px;
+    border: 1px solid #e8e8eb;
+    margin-left:470px;
+    height: 45px;
+    width: 150px;
+    font-family: sans-serif;
+}
+.mess textarea{
+    height: 245px;
+    width: 750px;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 25px;
+    border: 1px solid #e8e8eb;
+    font-family: sans-serif;
+
+}
+.sum input{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color: #fff;
+    background: #101010;
+    display: inline-block;
+    padding: 3px 18px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+.hahaha{
+    border: #f9f2f4;
+    background-color: #f0f0f0;
+    border-style: solid;
+    width: 400px;
+    height: 1000px;
+    margin-top: -1020.5px;
+    margin-left: 953px;
+    font-family: sans-serif;
+
+}
+.gu h3{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.gu span{
+    font-size: 40px;
+}
+.uni h2{
+    margin-left:30px ;
+    font-family: sans-serif;
+
+}
+.uni1{
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.uni2{
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.uni2 a{
+    text-decoration: none;
+    color: #ff5722;
+    font-family: sans-serif;
+
+}
+.uni3{
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+}
+.uni3 a{
+    text-decoration: none;
+    color: #ff5722;
+    font-family: sans-serif;
+
+}
+.king h2{
+    margin-left: 30px;
+    margin-top: 50px;
+    font-family: sans-serif;
+
+}
+.bando{
+
+    margin-top: 70px;
+}
+.yeu{
+    margin-top: 30px;
+    background-color: #f9f2f4;
+    height: 130px;
+    width: 100%;
+    margin-left: 0px;
+    font-family: sans-serif;
+
+}
+.h1 {
+    margin-left: 50px;
+    font-family: sans-serif;
+
+}
+.yeu img{
+    margin-top: 40px;
+}
+.h2{
+    margin-left: 300px;
+    margin-top: -88px;
+}
+.h3{
+    margin-top: -88px;
+    margin-left: 550px;
+
+}
+.h4{
+    margin-top: -90px;
+    margin-left: 900px;
+
+}
+.h5{
+    margin-top: -88px;
+    margin-left: 1250px;
+
+}
+footer{
+    width: 100%;
+    height: 400px;
+    box-sizing: border-box;
+    float: left;
+    background-image: url("../image/footer_bg.jpg") ;
+}
+footer .boxx1{
+    width: 26%;
+    height: 100%;
+    float: left;
+    margin-left: 142px;
+}
+footer .boxx2{
+    width: 17%;
+    height: 100%;
+    float: left;
+}
+footer .boxx3{
+    width: 18%;
+    height: 100%;
+    float: left;
+}
+footer .boxx4{
+    width: 12%;
+    height: 100%;
+    float: left;
+}
+footer .boxx5{
+    width: 7%;
+    height: 100%;
+    float: left;
+}
+
+footer .boxx1 img{
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+footer .boxx1 p{
+    line-height: 25px;
+    color: white;
+}
+footer .boxx1 .tel{
+    line-height: 10px;
+    color: white;
+}
+footer .boxx1 #strong{
+    color: white;
+    padding-top: 34px;
+}
+footer .boxx2 h3{
+    padding-top: 60px;
+    color: white;
+}
+footer .boxx2 p{
+    line-height: 35px;
+    color: white;
+}
+footer .boxx3 p{
+    line-height: 35px;
+    color: white;
+}
+footer .boxx3 #first{
+    margin-top: 118px;
+}
+footer .boxx4 h3{
+    padding-top: 60px;
+    color: white;
+}
+footer .boxx4 p{
+    line-height: 35px;
+    color: white;
+}
+footer .boxx5 p{
+    line-height: 35px;
+    color: white;
+}
+footer .boxx5 #second{
+    margin-top: 118px;
+}
+footer .boxx2 p:hover{
+    color: #F15D2C;
+}
+footer .boxx3 p:hover{
+    color: #F15D2C;
+}
