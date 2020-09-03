@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Navigation_demo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Navigation_demo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Name="trang1" Content="trang 1" Click="trang1_Click" Margin="0,0,20,0"/>
+            <Button Name="trang2" Content="trang 2" Click="trang2_Click" Margin="0,0,20,0"/>
+            <Button Name="trang3" Content="trang 3" Click="trang3_Click" Margin="0,0,20,0"/>
+            <Button Name="NavigateButton" Content="trang khac" Click="NavigateButton_Click" />
+        </StackPanel>
+        <Frame Name="MyFrame">
+
+        </Frame>
+        <StackPanel Orientation="Horizontal">
+            <Button Name="back" Content="back" Click="back_Click" Margin="0,0,20,0" />
+            <Button Name="forward" Content="forward" Click="Button_Click" Margin="0,0,20,0" />
+        </StackPanel>
+    </StackPanel>
+</Page>
