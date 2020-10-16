@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Web Product";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Product</h1>
+    
+</div>
+<div class="card-columns">
+    @foreach (var product in Model.Products)
+    { 
+       <div class="card">
+           <div class="card-img" style="background-image:url('@product.Image');"></div>
+           <div class="card-body">
+               <h5 class="card-title text-center">Title:@product.Name</h5>    
+               <h3 class="card-text text-center">Price:$@product.Price</h3>
+           </div>
+              
+       </div>
+    }
+</div>
